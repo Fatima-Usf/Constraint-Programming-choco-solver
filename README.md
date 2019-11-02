@@ -1,5 +1,5 @@
 # Constraint-Programming-choco-solver
-matrix whose sum of the elements of each line are equal as well as the colones
+A matrix that sum of the elements of each line are equal as well as the colones
 here are all the solution we can get with such constraunt
 
 
